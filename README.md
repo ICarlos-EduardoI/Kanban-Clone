@@ -1,7 +1,6 @@
 # Kanban-Clone
- # Kanban Task Manager
 
-![Kanban Board](https://your-image-url.com) 
+![Kanban Board](https://github.com/ICarlos-EduardoI/Kanban-Clone/blob/main/imagem_2025-03-04_224053474.png) 
 
 
 ## 📌 Sobre o Projeto
@@ -9,16 +8,13 @@ Este é um sistema de organização baseado no método **Kanban**, desenvolvido 
 
 ## 🚀 Tecnologias Utilizadas
 - **TypeScript**
-- **React** (se aplicável)
-- **Node.js** (se aplicável)
-- **Styled Components** (ou outra tecnologia de estilização usada)
-- **LocalStorage / Firebase / Backend próprio** (dependendo de onde os dados são armazenados)
+- **React** 
+- **Node.js** 
+- **Tailwindcss** 
 
 ## 🎯 Funcionalidades
 ✅ Criar, editar e excluir tarefas  
 ✅ Mover tarefas entre colunas (To Do, Doing, Done)  
-✅ Armazenamento de dados (explicar onde os dados são salvos)  
-✅ Interface responsiva (se aplicável)  
 
 ## 🛠 Como Rodar o Projeto
 
@@ -55,11 +51,5 @@ Contribuições são bem-vindas! Para contribuir:
 4. Faça um push da branch (`git push origin minha-nova-feature`).
 5. Abra um **Pull Request**.
 
-## 📄 Licença
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-💡 **Dica:** Você pode adicionar capturas de tela ou um GIF mostrando o funcionamento do sistema para deixar o README ainda mais atrativo!
 
 
